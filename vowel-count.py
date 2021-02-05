@@ -7,4 +7,4 @@ def getCount(inputStr):
             num_vowels = num_vowels + 1
     return num_vowels
 
-print getCount('abracadabra') #5
+print (getCount("abracadabra")) #5
